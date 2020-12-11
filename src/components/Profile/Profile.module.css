@@ -4,6 +4,7 @@
     background-color: darkcyan;
 }
 
-.item {
-    color: gray;
+.content img {
+    width: 720px;
+    height: auto;
 }
